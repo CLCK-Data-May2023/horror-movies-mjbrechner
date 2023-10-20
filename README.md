@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/T6T250Ak)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12390958&assignment_repo_type=AssignmentRepo)
 # Horror Movies Exercise
 
 Code Louisville Data Analysis Exercise
@@ -52,6 +54,10 @@ files back to GitHub.
 folder in GitBash/Terminal.
 1. Create a virtual environment in the project folder. `python3 -m venv venv` [^1]
 1. Activate the virtual environment. `source venv/bin/activate`
+
+!!!!!!!source venv/Scripts/activate!!!!!!
+!!!!!!!for Windows!!!!!!!
+
 1. Install the required packages. `pip install -r requirements.txt`
 1. When you are done working on your repo, deactivate the virtual environment. 
 `deactivate`
